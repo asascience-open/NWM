@@ -5,4 +5,5 @@ cartopy
 holoviews
 geoviews
 matplotlib
-
+s3fs
+netCDF4

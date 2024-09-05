@@ -1,3 +1,4 @@
+xarray
 intake
 hvplot
 cartopy

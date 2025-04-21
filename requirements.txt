@@ -1,6 +1,7 @@
 xarray
 intake
 intake-xarray
+zarr<3
 hvplot
 cartopy
 holoviews
